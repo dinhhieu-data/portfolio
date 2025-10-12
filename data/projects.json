@@ -1,0 +1,33 @@
+[
+  {
+    "title": "Netflix Data Analysis",
+    "short": "Exploratory analysis on Netflix titles, viewing trends and insights using Python (Pandas/Matplotlib).",
+    "tags": [
+      "Python",
+      "Pandas",
+      "EDA"
+    ],
+    "image": "assets/images/project-netflix.png",
+    "link": "#"
+  },
+  {
+    "title": "Sales Dashboard",
+    "short": "Interactive sales dashboard built in Power BI to monitor KPIs, sales by region and time-series trends.",
+    "tags": [
+      "Power BI",
+      "Dashboard"
+    ],
+    "image": "assets/images/project-sales.png",
+    "link": "#"
+  },
+  {
+    "title": "SQL Portfolio Project",
+    "short": "Data cleaning and analysis using SQL. ETL examples and complex queries demonstrated on sample datasets.",
+    "tags": [
+      "SQL",
+      "ETL"
+    ],
+    "image": "assets/images/project-sql.png",
+    "link": "#"
+  }
+]
